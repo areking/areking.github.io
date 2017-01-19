@@ -110,8 +110,8 @@
 	
 /* SET BG */
 
-	var opacityLow = '1';
-	retrieveBG();
+	var opacityLow = '.1';
+	// retrieveBG();
 
 	function storeBG(){
 		localStorage.BG = BG.style.background;
@@ -450,7 +450,7 @@
 	
 	
 	/* set font */
-	font1();	
+	font2();	
 	retrieveFont();
 
 	function storeFont(){
@@ -767,6 +767,7 @@
 						menu.style.display = 'none';
 						help.style.display = 'inline-block';
 						setting.style.display = 'none';
+						footer.style.display = 'none';
 						clearInput();
 
 						return false;
@@ -777,6 +778,7 @@
 						menu.style.display = 'none';
 						help.style.display = 'none';
 						setting.style.display = 'inline-block';
+						footer.style.display = 'none';
 						clearInput();
 						
 						return false;
@@ -787,6 +789,7 @@
 						menu.style.display = 'none';
 						help.style.display = 'inline-block';
 						setting.style.display = 'none';
+						footer.style.display = 'none';
 						clearInput();
 
 						return false;

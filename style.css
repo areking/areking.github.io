@@ -1,0 +1,45 @@
+
+
+
+
+	html, body, main {
+		display: inline-block;
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		text-align: center;
+background-color: #277B82;
+font-family: "Lucida Console", Monaco, monospace;
+	color: #d5d5d5;
+
+		}
+
+
+#container {
+	display: inline-block;
+	text-align: center;
+	margin-top: 150px;
+	/* background-color: red; */
+}
+
+.col {
+	display: inline-block;
+	vertical-align: top;
+}
+
+a {
+	display: block;
+	color: #d5d5d5;
+}
+img {
+	margin: 10px;
+	border: 2px solid #d5d5d5;
+}
+img:hover{
+	opacity: .8;
+}
+
+a:hover {
+	color: white;
+}
