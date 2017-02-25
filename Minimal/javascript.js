@@ -67,10 +67,12 @@
 	]
 	
 		
+	//ok
 	var google = 'http://www.google.com/search?q=';
 	var duckduckgo = 'https://duckduckgo.com/?q=';
 	var defaultSearch = google;
 
+	
 	/* INPUT SEARCH */
 	
 	var input1 = document.getElementById('input1');
