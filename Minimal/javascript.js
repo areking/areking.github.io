@@ -67,7 +67,6 @@
 	]
 	
 		
-	//ok
 	var google = 'http://www.google.com/search?q=';
 	var duckduckgo = 'https://duckduckgo.com/?q=';
 	var defaultSearch = google;
