@@ -1,5 +1,5 @@
 AuthName "what you want"
 AuthType Basic
-AuthUserFile /customers/6/8/b/areking.github.io/httpd.www/.htpasswd
+AuthUserFile /github.com/areking/areking.github.io/blob/master/.htpasswd
 AuthGroupFile /dev/null 
 require valid-user
