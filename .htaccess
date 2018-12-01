@@ -1,5 +1,0 @@
-AuthName "what you want"
-AuthType Basic
-AuthUserFile /github.com/areking/areking.github.io/blob/master/.htpasswd
-AuthGroupFile /dev/null 
-require valid-user
